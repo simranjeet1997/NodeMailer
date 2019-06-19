@@ -1,0 +1,39 @@
+<h4>Footer Content</h4>
+<table class="foo1" width="170" border="0" align="right" cellpadding="0" cellspacing="0">
+												<tr>
+													<td class="ser_text editable" style="font-family: Candara; font-size: 1em; color: #ffffff; line-height: 24px;">
+
+														<!-- Place URL to Web Version-->
+														<a href="#" style="color:#ffffff;text-decoration:none;" data-size="Footer Text" data-color="Footer Text">
+
+															<!-- Change Text -->
+															web version
+
+														</a>
+
+														<span data-size="Footer Text" data-color="Footer Text">&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+														<a href="#" style="color:#ffffff;text-decoration:none;">
+															unsubscribe
+														</a>
+													</td>
+												</tr>
+											</table>
+
+										</td>
+									</tr>
+
+									<tr>
+										<td height="10" style="font-size: 1px; line-height: 10px;">&nbsp;</td>
+									</tr>
+
+							</table>
+						</td>
+					</tr>
+
+				</table>
+				<table>
+					<tr><td class="top_mar" height="50"></td></tr>
+				</table>
+			</td>
+		</tr>
+	</table>
